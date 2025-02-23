@@ -17,7 +17,7 @@ A web application that analyzes video content to detect hand interactions using 
 - **Python 3.9+** ([Download](https://www.python.org/downloads/))
 - **Node.js 16+** ([Download](https://nodejs.org/))
 - **FFmpeg** ([Installation instructions below](#ffmpeg-installation))
-- Webcam (for live capture) or video files
+- video files
 
 ## Installation
 
